@@ -2,7 +2,7 @@
 
 # 🎥 Webapp CaC-Movies
 
-<img src="./portada-cac.movies.png" align="center" height="400" width="850" />  
+<img src="./portada-cac-movies.png" align="center" height="400" width="850" />
 
 ## 📝 Descripción
 
@@ -24,8 +24,8 @@ La aplicación desarrollada con Html 5, estilos CSS y con Javascript, permite na
 
 ## 👷Autor: Alberto Vallecillo
 <a href="https://linkedin.com/in/alberto-vallecillo" target="_blank">
-<img src="./assets/img/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+<img src="./linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Alb3rtoGitHub" target="_blank">
-<img src="./assets/img/github.svg" alt=github style="margin-bottom: 5px;" />
+<img src="./github.svg" alt=github style="margin-bottom: 5px;" />
 </a>
