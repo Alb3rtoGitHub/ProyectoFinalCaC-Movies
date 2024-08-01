@@ -19,8 +19,13 @@ Entre los archivos encontraran: cac_movies.sql => script para crear la base de d
 - Consumir una API de Internet.
 - Consultar la Base de Datos y mostrar resultados.
 
-## 💻 Funcionamiento
+## 🎬 Funcionamiento
 La aplicación desarrollada con Html 5, estilos CSS y con Javascript, permite navegación entre opciones del Navbar, animaciones en iconos, mostrar peliculas, mostrar un carrousel, registrar usuarios, validar campos al registrarse y consumir una API de peliculas alojados en https://api.themoviedb.org/3 al que tuve que suscribirme para tener una APIKEY. Esta conectada con un Back-End en Java vía Servlets se comunica con web-server Tomcat version 9, para registrar usuarios en la base de datos MySQL mediante la opción Registrarse, también puede validar un login de administrador para mostrar/modificar y eliminar una lista de usuarios registrados, mediante un modal. Como adicional existe un botón de consumo de API que muestra listado de películas que trae de la API de The MovieDB, la opción Aclamadas del Navbar que permite consultar la base de datos y mostrar las películas Aclamadas y un buscador que consulta la base de datos para mostrar el resultado de la busqueda en un modal.
+
+## 💻 Vistas:
+<img src="./src/main/webapp/assets/img/recomendadas-cac-movies.png" align="center" height="400" width="850" />
+
+<img src="./src/main/webapp/assets/img/tendencias-cac-movies.png" align="center" height="400" width="850" />
 
 ## 👷Autor: Alberto Vallecillo
 <a href="https://linkedin.com/in/alberto-vallecillo" target="_blank">
