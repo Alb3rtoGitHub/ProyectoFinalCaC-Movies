@@ -2,8 +2,7 @@
 
 # 🎥 Webapp CaC-Movies
 
-<img src="/src/main/webapp/assets/img/portada-cac.movies.png" align="center" height="400" width="850" />  
-
+<img src="./portada-cac.movies.png" align="center" height="400" width="850" />  
 
 ## 📝 Descripción
 
